@@ -2,6 +2,12 @@
 A Terraria Naruto Mod!
 Change Log:
 
+Note : Havent added any Release jutsus outside of Nature learner as yet!
+Version 0.6 : 
+Added All Water Relase Jutsus
+Added All Wind Release Jutsus
+Added 1/2 Lightning Release Jutsus
+
 Version 0.5:
 Tweaked Sand Tsunami!
 Added All Fire Releases!
