@@ -4,6 +4,22 @@ Change Log:
 
 Note : Havent added any Release jutsus outside of Nature learner as yet!
 
+Version 0.8:
+1) Fixed Bug In Earth Golem Slime
+2) Completed Hozuki Clan
+3) Fixed Odd Text in White Light Chakra Sabre
+4) Some Clan Jutsus Would ebe given through quests:
+   Hyuga,Inuzuka,Kurama,Nara,Sarutobi,Senju,Uchiha,Uzumaki,Yamanka
+5) Slight Bug In Hidden Hozuki Jutsu
+6)Look Forward to rest Jutsu learners completion and Quest Coming Version 0.9 - 1.0
+
+Version 0.7:
+1)Ended Lightning Learner!
+2)Added 500+ & 1000+ Download Special Items
+3)Added Everything for Akimichi Clan
+4)Completed Fuhma Clan
+5)Completed Hatake Clan
+
 Version 0.6 : 
 Added All Water Relase Jutsus
 Added All Wind Release Jutsus
