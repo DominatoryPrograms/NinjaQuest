@@ -3,7 +3,22 @@ A Terraria Naruto Mod!
 Change Log:
 
 Note : Havent added any Release jutsus outside of Nature learner as yet!
+Version 0.9:
+Whats New:
+*Properly Visual and text verification of MS and EMS
+*Adjusted the drainage of Sharingan.(Tomoe 3 and EMS no longer drains.)
+*Adjusted Chakra Recharge rate
+*Added Some New Quests
+*Added Substitution Jutsu
 
+Version 0.85:
+
+What's New:
+*Sharingan
+*Mangekyo Sharingan & EM Sharingan
+*Byakugan (Buff)
+Please Note : Sharingan & Byakugan is added as a Hotkey!
+*Reduced Sharingan Awakening and Tomoe lvling Time!
 Version 0.8:
 1) Fixed Bug In Earth Golem Slime
 2) Completed Hozuki Clan
